@@ -19,5 +19,8 @@ It will show up syntax errors. That's why we need to add escape, \' \"
 
 >>> ' Let\'s go!'
 "Let's go!"
->>>'\"Hello, world!\" She said '
+>>>"\"Hello, world!\" She said "
 '"Hello,world" She said'
+
+>>> '''"No, thanks, Mom," I said, "I don't know how long it will take."'''
+'"No, thanks, Mom," I said, "I don\'t know how long it will take."'
